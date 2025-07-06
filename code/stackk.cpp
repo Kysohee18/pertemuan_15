@@ -44,7 +44,7 @@ using namespace std;
 class Node
 {
     public: 
-    int data; ///< variabel data dengan tipe integer
+    int data; ///< variabel data den tipe integer
     Node *next; ///< variabel untuk menyimpan alamat memori
 
     Node()
